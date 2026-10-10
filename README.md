@@ -1,5 +1,5 @@
 Western Survivor Game
 
-V1
-Draws the game window 
-Allows for player movement via WASD
+V1<br/>
+Draws the game window <br/>
+Allows for player movement via WASD<br/>
